@@ -1,0 +1,13 @@
+player.modav fasttraveloverencumbered 1
+player.setav fasttraveloverencumbered 1
+Player.SetAV BoostpackHorizontalPercentage 1.7
+SetGS fDiffMultHPByPCVH 2.0
+SetGS fDiffMultHPToPCVH 2.0
+SetGS iDaysToRespawnVendor 1
+SetGS fHandScannerMapMarkerMinRange 1000
+SetGS fHandScannerScanRange 10.0
+SetGS fHandScannerSocialRange 30.0
+SetGS "fStarMapInspectCameraDistanceScaleZoomMin:StarMap" 0.234
+SetGS "fStarMapInspectCameraDistanceScaleZoomMinMoon:StarMap" 0.166
+SetGS "fStarMapInspectCameraDistanceScaleZoomMax:StarMap" 5.0
+SetGS fDiffMultLegendaryChance_VH 5.000

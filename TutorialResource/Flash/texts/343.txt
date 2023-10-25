@@ -1,0 +1,17 @@
+[
+xmin 500
+ymin -40
+xmax 4000
+ymax 400
+readonly 1
+noselect 1
+html 1
+useoutlines 1
+color #ffb7b7b7
+fontclass $MAIN_Font_Bold
+align right
+leftmargin 0
+rightmargin 0
+indent 0
+leading 96
+]<p align="right"><font size="12" color="#b7b7b7" letterSpacing="0.00" kerning="1">xxx</font></p>
